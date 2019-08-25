@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procedural LandMass Generation", "Assembly-CSharp.csproj", "{AB742FEB-EC96-4F8F-33FC-67D7FEFA74BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procedural LandMass Generation", "Assembly-CSharp-Editor.csproj", "{70C8295D-A2AD-B4EC-D575-933E883AF06C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB742FEB-EC96-4F8F-33FC-67D7FEFA74BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB742FEB-EC96-4F8F-33FC-67D7FEFA74BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB742FEB-EC96-4F8F-33FC-67D7FEFA74BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB742FEB-EC96-4F8F-33FC-67D7FEFA74BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C8295D-A2AD-B4EC-D575-933E883AF06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C8295D-A2AD-B4EC-D575-933E883AF06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C8295D-A2AD-B4EC-D575-933E883AF06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C8295D-A2AD-B4EC-D575-933E883AF06C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
